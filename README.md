@@ -52,11 +52,7 @@ I like asking **"why?"** before asking **"how do we scale it?"**
 
 I like building things, testing ideas, looking at the numbers, and figuring out what they actually mean.
 
-Some experiments work.
-
-Some don't.
-
-Both are useful.
+Some experiments work. Some don't. Both are useful.
 
 The goal is to keep learning and make the next one better.
 
