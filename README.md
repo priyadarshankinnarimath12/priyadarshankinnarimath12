@@ -16,13 +16,17 @@ Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, M
 
 ### Things I've worked on  📈
 - Managed ₹15L+ in paid media across Meta, Google & LinkedIn
-- Generated 100+ property listings for Mygate Homes
+- Generated 150+ property listings for Mygate Homes through paid media
 - Generated 350+ B2B leads for Mygate
 - Generated 250+ MQLs across Middle East markets with 50+ Demos.
-- Published 500+ SEO-focused articles
-- Helped grow organic traffic by 3×
-- Generated 3,000+ MQLs through paid media and SEO
-- Worked with 100+ creators across influencer campaigns
+- Worked with 50+ creators across Bengaluru and Surat for a brand campaign for Kongsi Tea Bar
+- Optimised GBP for Kongsi Tea Bar across all the stores for strengthening the Local SEO
+- Published 50+ SEO-focused articles for Kongsi Te Bar which helped 4K+ clicks and 500k+ impressions
+- Managed Pmax, Search & Meta campaigns to increase awareness, generate MQL lesds and drive store visits
+- Published 500+ SEO-focused articles for Frozen bottle
+- Helped grow organic traffic by 3× for Frozen bottle
+- Generated 3,000+ MQLs through paid media and SEO for Frozen Bottle
+- Worked with 100+ creators across various influencer campaigns for Frozen Bottle
 
 ### Things I like exploring  🧠
 - Performance marketing
