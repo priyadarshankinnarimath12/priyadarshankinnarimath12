@@ -1,99 +1,65 @@
 # Hey, I'm Priyadarshan 👋
+I'm a digital marketer based in Bengaluru, India.
 
-### Digital Marketer | Performance Marketing | SEO | Growth
+I work across performance marketing, SEO, growth, content, CRM, and influencer marketing - basically, anything that helps a brand find the right people and turn attention into action.
 
-I'm a 25-year-old digital marketer with 2.5+ years of experience across **performance marketing, SEO, lead generation, CRM, content, influencer marketing, and conversion optimisation**.
+I enjoy figuring out why people click, what makes them care, and what makes them convert.
 
-I enjoy figuring out how people discover brands, what makes them pay attention, and what turns that attention into action.
+I believe great marketing starts with curiosity - understanding people, trying new things, learning from what works, and getting better every day.
 
-I believe great marketing starts with curiosity - **understanding people, trying new things, learning from what works, and getting better every day.**
+### What I'm working on 🚀
+Currently at **Mygate**, driving acquisition across Mygate Homes, Middle East, and CEP campaigns.
 
----
+I've worked across India and the Middle East on property acquisition, B2B lead generation, demand generation, CRM, and growth campaigns.
 
-## 🚀 What I'm Working On
+Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, Madno House of Sundae, Lubov Patisserie, and Boba Bar**.
 
-Currently, I'm working at **Mygate**, where I work across digital acquisition and lead generation through **Meta, Google, and LinkedIn**.
+### Things I've worked on 📈
+- Managed ₹15L+ in paid media across Meta, Google & LinkedIn
+- Generated 100+ property listings for Mygate Homes
+- Generated 350+ B2B leads for Mygate
+- Generated 250+ MQLs across Middle East markets with 50+ Demos.
+- Published 500+ SEO-focused articles
+- Helped grow organic traffic by 3×
+- Generated 3,000+ MQLs through paid media and SEO
+- Worked with 100+ creators across influencer campaigns
 
-I've worked on campaigns across India and the Middle East, including property listing acquisition, B2B lead generation, MQL generation, demand generation, and CRM re-engagement.
-
-I've also worked closely with business teams to improve the journey from **ad → lead → conversion**.
-
----
-
-## 📈 A Few Things I've Worked On
-
-- Managed **₹15L+ in advertising spend** across Meta, Google & LinkedIn
-- Generated **100+ new property listings** for Mygate Homes
-- Generated **350+ B2B leads** for Mygate's advertising platform
-- Generated **250+ MQLs** across Middle East markets for property management software
-- Created **500+ SEO-focused articles**
-- Helped drive **3× organic traffic growth**
-- Generated **3,000+ MQLs** through paid media and SEO-led acquisition
-- Worked with **100+ creators** across influencer campaigns generating millions of views
-
----
-
-## 🧠 What I'm Curious About
-
-I'm particularly interested in the intersection of:
-
-**People × Data × Creativity × Technology**
-
-Some of the things I like exploring:
-
+### Things I like exploring 🧠
 - Performance marketing
 - SEO & organic growth
 - Consumer behaviour
 - Growth experiments
 - Conversion optimisation
-- AI in marketing
-- Content & creator marketing
+- AI + marketing
+- Creator & content marketing
 - CRM & lifecycle marketing
-- Marketing analytics
 
-I like asking **why** something worked before simply trying to scale it.
+I like asking **"why?"** before asking **"how do we scale it?"**
 
----
+### My toolkit 🛠️
 
-## 🛠️ Tools I Work With
+**Ads:** Meta Ads · Google Ads · LinkedIn Ads
 
-**Paid Media**
+**Analytics:** GA4 · GTM · GSC · Hotjar
 
-`Meta Ads` · `Google Ads` · `LinkedIn Ads`
+**SEO:** Ahrefs · SEMrush · Mangools · Google Trends
 
-**Analytics & CRO**
+**Creative:** Canva · Figma · Adobe Express
 
-`GA4` · `GTM` · `Google Search Console` · `Hotjar` · `Google Business Profile`
+**CRM:** Reelo · Interakt · Helter CRM
 
-**SEO**
+### A little about how I work
 
-`Ahrefs` · `SEMrush` · `Mangools` · `Google Trends` · `Keyword Planner`
+I like building things, testing ideas, looking at the numbers, and figuring out what they actually mean.
 
-**Content & Creative**
+Some experiments work.
 
-`WordPress` · `Canva` · `Figma` · `Adobe Express`
+Some don't.
 
-**CRM & Engagement**
+Both are useful.
 
-`Reelo` · `Interakt` · `Helter CRM`
+The goal is to keep learning and make the next one better.
 
----
-
-## 💭 How I Think About Marketing
-
-> **I believe great marketing starts with curiosity - understanding people, trying new things, learning from what works, and getting better every day.**
-
-I'm still early in my journey, and that's something I value.
-
-There is always another customer insight to uncover, another assumption to challenge, another experiment to run, and another thing to learn.
-
----
-
-## 🤝 Let's Connect
+### Let's connect 👋
 
 Always up for conversations around **marketing, growth, and new ideas**.
-
-Feel free to connect or follow along.
----
-
-*Still learning. Still experimenting. Still building.*
