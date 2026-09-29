@@ -7,14 +7,14 @@ I enjoy figuring out why people click, what makes them care, and what makes them
 
 I believe great marketing starts with curiosity - understanding people, trying new things, learning from what works, and getting better every day.
 
-### What I'm working on 🚀
+### What I'm working on  🚀
 Currently at **Mygate**, driving acquisition across Mygate Homes, Middle East, and CEP campaigns.
 
 I've worked across India and the Middle East on property acquisition, B2B lead generation, demand generation, CRM, and growth campaigns.
 
 Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, Madno House of Sundae, Lubov Patisserie, and Boba Bar**.
 
-### Things I've worked on 📈
+### Things I've worked on  📈
 - Managed ₹15L+ in paid media across Meta, Google & LinkedIn
 - Generated 100+ property listings for Mygate Homes
 - Generated 350+ B2B leads for Mygate
@@ -24,7 +24,7 @@ Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, M
 - Generated 3,000+ MQLs through paid media and SEO
 - Worked with 100+ creators across influencer campaigns
 
-### Things I like exploring 🧠
+### Things I like exploring  🧠
 - Performance marketing
 - SEO & organic growth
 - Consumer behaviour
@@ -36,7 +36,7 @@ Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, M
 
 I like asking **"why?"** before asking **"how do we scale it?"**
 
-### My toolkit 🛠️
+### My toolkit  🛠️
 
 **Ads:** Meta Ads · Google Ads · LinkedIn Ads
 
@@ -60,6 +60,6 @@ Both are useful.
 
 The goal is to keep learning and make the next one better.
 
-### Let's connect 👋
+### Let's connect  👋
 
 Always up for conversations around **marketing, growth, and new ideas**.
