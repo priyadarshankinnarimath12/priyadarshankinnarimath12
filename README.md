@@ -7,12 +7,12 @@ I enjoy figuring out why people click, what makes them care, and what makes them
 
 I believe great marketing starts with curiosity - understanding people, trying new things, learning from what works, and getting better every day.
 
-### What I'm working on  🚀
-Currently at **Mygate**, driving acquisition across Mygate Homes, Middle East, and CEP campaigns.
+-------
+
+Currently working at **Mygate**, driving acquisition across Mygate Homes, Middle East, and CEP campaigns.
 
 I've worked across India and the Middle East on property acquisition, B2B lead generation, demand generation, CRM, and growth campaigns.
 
-### Things I've worked on  📈
 - Managed ₹15L+ in paid media across Meta, Google & LinkedIn
 - Generated 200+ property listings for Mygate Homes through paid media
 - Generated 350+ B2B leads for Mygate
@@ -26,7 +26,7 @@ I've worked across India and the Middle East on property acquisition, B2B lead g
 - Generated 3,000+ MQLs through paid media and SEO for Frozen Bottle
 - Worked with 100+ creators across various influencer campaigns for Frozen Bottle
 
-### My toolkit  🛠️
+### My toolkit  
 
 **Ads:** Meta Ads · Google Ads · LinkedIn Ads
 
