@@ -28,18 +28,6 @@ Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, M
 - Generated 3,000+ MQLs through paid media and SEO for Frozen Bottle
 - Worked with 100+ creators across various influencer campaigns for Frozen Bottle
 
-### Things I like exploring  🧠
-- Performance marketing
-- SEO & organic growth
-- Consumer behaviour
-- Growth experiments
-- Conversion optimisation
-- AI + marketing
-- Creator & content marketing
-- CRM & lifecycle marketing
-
-I like asking **"why?"** before asking **"how do we scale it?"**
-
 ### My toolkit  🛠️
 
 **Ads:** Meta Ads · Google Ads · LinkedIn Ads
