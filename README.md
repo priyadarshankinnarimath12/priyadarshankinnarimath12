@@ -12,8 +12,6 @@ Currently at **Mygate**, driving acquisition across Mygate Homes, Middle East, a
 
 I've worked across India and the Middle East on property acquisition, B2B lead generation, demand generation, CRM, and growth campaigns.
 
-Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, Madno House of Sundae, Lubov Patisserie, and Boba Bar**.
-
 ### Things I've worked on  📈
 - Managed ₹15L+ in paid media across Meta, Google & LinkedIn
 - Generated 200+ property listings for Mygate Homes through paid media
@@ -43,10 +41,6 @@ Before Mygate, I worked with brands including **Frozen Bottle, Kongsi Tea Bar, M
 ### A little about how I work
 
 I like building things, testing ideas, looking at the numbers, and figuring out what they actually mean.
-
-Some experiments work. Some don't. Both are useful.
-
-The goal is to keep learning and make the next one better.
 
 ### Let's connect  👋
 
